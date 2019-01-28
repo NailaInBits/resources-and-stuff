@@ -23,8 +23,11 @@ Please note that some of the listed resources may be geo-specific, i.e. I live i
 * [ACM-W](http://women.acm.org/chapter)
 * [Made With Code](https://www.madewithcode.com/resources/)
 
-## Campus Club Resources ##
+## Campus Club/On Campus Event Resources ##
 * [IBM Hackathon Starter Kit](https://developer.ibm.com/students/hackathon-starter-kit/?utm_campaign=Hackathon&utm_source=hs_email&utm_medium=email&utm_content=35760515&_hsenc=p2ANqtz--bUYyjKMHt2Clhu4sKEM9z-ifwNog3DOp-RbAdjpysc2-8SYg-wAZ4BUpbI5yBtifG0DOrgapI2q6mxdGuXXyTRYU2gg&_hsmi=35760515)
+* [Make School Event Partnerships](http://forms.makeschool.com/events)
+* [How to create great panel questions](https://powerfulpanels.com/create-great-questions-panelists-answer-panel-discussion/)
+* [13 Guidelines for Great Panel Discussions](http://www.scottkirsner.com/panels.htm)
 
 ## iOS Tutorials ##
 * [Custom ViewController Transition](https://www.raywenderlich.com/110536/custom-uiviewcontroller-transitions)
@@ -52,6 +55,7 @@ Please note that some of the listed resources may be geo-specific, i.e. I live i
 * [Multipart REST Tutorial](http://rest.elkstein.org/2008/02/what-is-rest.html)
 * [Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
 * [Alexa Skills Kit](https://developer.amazon.com/alexa-skills-kit/learn) 
+* [Non-Binary Trees](http://cs360.cs.ua.edu/lectures/8%20Non-Binary%20Trees%20and%20Traversals.pdf) 
 
 ## Personal Sites and Blogs I love ##
 * [Wired Sound for Wired People](https://fauux.neocities.org/)
